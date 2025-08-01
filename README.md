@@ -7,9 +7,6 @@ A command-line personal expense tracker written in C, featuring multi-currency s
 - [Features](#features)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
